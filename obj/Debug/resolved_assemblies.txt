@@ -1,0 +1,12 @@
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\AppSpeedometer.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\Java.Interop.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\Mono.Android.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\mscorlib.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.Core.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.Xml.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.Xml.Linq.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.Runtime.Serialization.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Debug\android\assets\System.Net.Http.dll

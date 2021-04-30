@@ -1,0 +1,77 @@
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.pdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\Com.Mkh_Speedometer.apk
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\Com.Mkh_Speedometer-Signed.apk
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.pdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\bin\Com.Mkh_Speedometer.apk
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\res\layout\main.xml
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\res\values\strings.xml
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\res\drawable\icon.png
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\res\drawable\speedometer.png
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\R.cs.flag
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\uploadflags.txt
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\Java.Interop.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\Mono.Android.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\mscorlib.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.ComponentModel.Composition.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.Core.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.Net.Http.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.Runtime.Serialization.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.ServiceModel.Internals.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.Xml.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\System.Xml.Linq.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\mscorlib.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Core.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Xml.dll.mdb
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\res\layout\layoutac.xml
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\bin\Release\CalligraphyBindings.dll
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.csprojResolveAssemblyReference.cache
+E:\Software Developer\Android\Project\Application Android\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.dll
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.pdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\Com.Mkh_Speedometer.apk
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\Com.Mkh_Speedometer-Signed.apk
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.csprojResolveAssemblyReference.cache
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.dll
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.pdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\bin\Com.Mkh_Speedometer.apk
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\layout\layoutac.xml
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\layout\uispeedcheck.xml
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\layout\main.xml
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\values\strings.xml
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\drawable\icon.png
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\res\drawable\speedometer.png
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\R.cs.flag
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\uploadflags.txt
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\Java.Interop.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\Mono.Android.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\mscorlib.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.ComponentModel.Composition.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.Core.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.Net.Http.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.Runtime.Serialization.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.ServiceModel.Internals.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.Xml.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\System.Xml.Linq.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\mscorlib.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Core.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\android\assets\System.Xml.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\obj\Release\AppSpeedometer.dll.mdb
+E:\Software Developer\Android\Project\Application Android\Speedometer v2\AppSpeedometer\AppSpeedometer\bin\Release\AppSpeedometer.dll.mdb
